@@ -599,8 +599,7 @@ external dependencies that you must install yourself. You'll find what a module
 needs and how to install them in that module's README.org file or by running
 ~bin/doom doctor~.
 
-The [[file:modules.org][Module Index]] lists all Doom's available modules, with links to their
-documentation. Documentation is a work-in-progrees; some modules may not have
+The [[https://github.com/doomemacs/modules][Module Index]] has all of Doom's available modules. Within you can find many if not all of each module's respective documentation. It is a work-in-progrees; some modules may not have
 README.org files yet!
 
 #+begin_quote
